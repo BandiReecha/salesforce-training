@@ -40,6 +40,8 @@ Tracking sales leads
 Automating follow-ups
 Monitoring employee productivity
 Customer issue management.
+
+
 4.Explain:
 account
 contact
