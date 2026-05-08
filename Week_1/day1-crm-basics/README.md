@@ -1,4 +1,5 @@
 1.What is Salesforce?
+
 Salesforce is a cloud-based CRM platform.
 It helps companies manage:
 Customers
@@ -12,6 +13,7 @@ Salesforce stores customer data in one place and helps companies improve custome
 
 
 2. What is CRM?
+
 CRM = Customer Relationship Management
 CRM is a system used to:
 Store customer information
@@ -26,6 +28,7 @@ Send follow-up emails
 Manage complaints
 
 3.Why Companies Use Salesforce?
+
 Centralized customer data
 Better communication with customers
 Automation of business tasks
