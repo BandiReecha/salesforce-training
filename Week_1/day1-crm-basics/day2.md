@@ -144,7 +144,7 @@ Examples: Account, Contact, Opportunity.
 
 In Salesforce, **multi-tenant architecture** means many customers share the same software and servers, but each customer’s data is kept secure and separate.
 
-👉 Similar to multiple families living in one apartment building with separate rooms.
+Similar to multiple families living in one apartment building with separate rooms.
 
 ---
 
